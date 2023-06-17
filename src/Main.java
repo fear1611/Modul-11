@@ -8,7 +8,7 @@ import java.util.stream.Stream;
 public class Main {
     public static void main(String[] args) {
         // hw 1
-        List<Object> list = Utilts.oddNames(List.of("" +
+        List<Object> list = Utilts.oddNames(List.of(
                 "Марк",
                 "Иван",
                 "Глеб",
